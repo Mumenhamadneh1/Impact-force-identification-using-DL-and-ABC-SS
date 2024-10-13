@@ -10,9 +10,9 @@ At each angle, impacts occur at various locations along the pipeline's depth. Th
 Time (s)
 Impact Force (N)
 Acceleration Sensor 1 Response (g)
-Acceleration Sensor 2 Response
-Acceleration Sensor 3 Response
-Acceleration Sensor 4 Response
+Acceleration Sensor 2 Response (g)
+Acceleration Sensor 3 Response (g)
+Acceleration Sensor 4 Response (g)
 These datasets can be used to study the effects of impacts at different angles and across different materials. This repository does not include analysis code, but the data is formatted for easy use in machine learning models, impact identification algorithms, and structural health monitoring studies.
 
 
