@@ -28,4 +28,5 @@ For example, in Segment 2 at 0.0 degrees, with a file named 10:
 
 The total depth calculation would be: 130 (final depth from Segment 1) + 10 (file name) + 20 (offset) = 160.
 Then, divide by 100 to convert to meters: 160 / 100 = 1.6 meters.
-These datasets can be used to study the effects of impacts by different materials at various angles on a steel pipeline. While this repository does not include analysis code, the data is formatted for easy use in machine learning models, impact identification algorithms, and structural health monitoring studies.
+
+These datasets can be used to study the effects of impacts by different materials at various angles on a steel pipeline. While this repository does not include analysis code, the data is formatted for easy use in machine learning models, impact identification algorithms, and structural health monitoring studies. For more information please refer to the research paper titled Impact-force Identification using Deep Learning and Bayesian Inference with Application on Pipeline Structures by Mu’men Hamadneh, Samir Mustapha, Mohammad Ali Fakih.
