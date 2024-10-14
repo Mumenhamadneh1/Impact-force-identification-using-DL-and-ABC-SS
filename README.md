@@ -7,7 +7,12 @@ The dataset includes information from four different segments of a steel pipelin
 
 ![Data_distribution](Images/Data_distribution.png)
 
-At each angle, impacts occur at various locations along the pipeline's depth. The dataset is organized into three impacting material types (aluminum, plastic, and rubber), and each material dataset contains:
+At each angle, impacts occur at various locations along the pipeline's depth. The dataset is organized into three impacting material types (aluminum, plastic, and rubber)
+
+![Tip types](Images/tips.png)
+![Impact force curves for the different tip types](Images/impactforce_tips.png)
+
+,and each material dataset contains:
 
 Time (s)
 
@@ -21,8 +26,6 @@ Acceleration Sensor 3 Response (g)
 
 Acceleration Sensor 4 Response (g)
 
-![Tip types](Images/tips.png)
-![Impact force curves for the different tip types](Images/impactforce_tips.png)
 
 ![Sensor orientations](Images/Sensor_config.png)
 
