@@ -5,9 +5,12 @@ The dataset includes information from four different segments of a steel pipelin
 
 0.0°, 20.5°, 41.0°, 61.5°, 82.0°, 98.5°, 115.0°, 135.5°, 156.0°, 176.5°, and 197.0°
 
+![Pipeline Impact Diagram](Images/Data_distribution.png)
+
 At each angle, impacts occur at various locations along the pipeline's depth. The dataset is organized into three impacting material types (aluminum, plastic, and rubber), and each material dataset contains:
 
-![Pipeline Impact Diagram](Images/Data.png)
+![Pipeline Impact Diagram](Images/tips.png)
+![Pipeline Impact Diagram](Images/impactforce_tips.png)
 
 Time (s)
 Impact Force (N)
