@@ -7,7 +7,7 @@ The dataset includes information from four different segments of a steel pipelin
 
 At each angle, impacts occur at various locations along the pipeline's depth. The dataset is organized into three impacting material types (aluminum, plastic, and rubber), and each material dataset contains:
 
-![Pipeline Impact Diagram](images/Data.png)
+![Pipeline Impact Diagram](Images/Data.png)
 
 Time (s)
 Impact Force (N)
