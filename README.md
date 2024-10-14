@@ -12,7 +12,7 @@ At each angle, impacts occur at various locations along the pipeline's depth. Th
 ![Tip types](Images/tips.png)
 ![Impact force curves for the different tip types](Images/impactforce_tips.png)
 
-,and each material dataset contains:
+and each material dataset contains:
 
 Time (s)
 
