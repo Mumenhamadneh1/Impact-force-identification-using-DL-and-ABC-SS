@@ -13,10 +13,15 @@ At each angle, impacts occur at various locations along the pipeline's depth. Th
 ![Impact force curves for the different tip types](Images/impactforce_tips.png)
 
 Time (s)
+
 Impact Force (N)
+
 Acceleration Sensor 1 Response (g)
+
 Acceleration Sensor 2 Response (g)
+
 Acceleration Sensor 3 Response (g)
+
 Acceleration Sensor 4 Response (g)
 
 ![Sensor orientations](Images/Sensor_config.png)
